@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Website</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+  <header>
+    <h1>Welcome to the Football Website!</h1>
+    <!-- Add any header content you want here -->
+  </header>
+
+  <nav>
+    <!-- Navigation menu goes here -->
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Teams</a></li>
+      <li><a href="#">Players</a></li>
+      <li><a href="#">Fixtures</a></li>
+      <li><a href="#">News</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <!-- Main content of your website goes here -->
+    <section>
+      <h2>About the Football Club</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut augue vitae nunc accumsan lobortis non et purus.</p>
+    </section>
+
+    <section>
+      <h2>Latest News</h2>
+      <article>
+        <h3>News Title</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id ligula sed lacus pulvinar dictum.</p>
+      </article>
+      <!-- Add more news articles here -->
+    </section>
+
+    <section>
+      <h2>Upcoming Fixtures</h2>
+      <ul>
+        <li>Fixture 1</li>
+        <li>Fixture 2</li>
+        <li>Fixture 3</li>
+        <!-- Add more fixtures here -->
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <!-- Footer content goes here -->
+    <p>&copy; 2023 Football Website. All rights reserved.</p>
+  </footer>
+</body>
+</html>
